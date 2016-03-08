@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tarea2</string>
+    <string name="bienvenido">Bienvenido!</string>
+    <string name="app">La Aplicacion esta en Español</string>
+    <string name="idioma">Para cambiar idioma, cambie idioma de su celular...</string>
+    <string name="opciones">Idiomas que soporta: Ingles, Frances,Italiano, Español</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bienvenido">Bienvenue!</string>
+    <string name="app">L\'application est en français</string>
+    <string name="idioma">Pour changer de langue, changer la langue de votre cellule ...</string>
+    <string name="opciones">Langues supportées: Anglais, Français, Italien, Espagnol</string>
+
+</resources>
